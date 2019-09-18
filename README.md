@@ -1,4 +1,4 @@
-# Guilford_County_Budget_Text
+# Budget_Text_Analysis
 
 # Introduction 
 In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties:
