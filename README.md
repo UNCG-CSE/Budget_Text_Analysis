@@ -10,5 +10,5 @@ In this project we will be analyzing budget text. The budget text inludes the fo
   * Durham County
   
  # Goals
-  * Emotion and Sentiment Analysis
-  * Topic Modeling
+ Our goal is to do some emotion and sentiment analysis on the data as well topic modeling
+
