@@ -1,6 +1,7 @@
 # Guilford_County_Budget_Text
+
 # Introduction 
-In this project we will be analyzing budget text. The budget text inludes the following:
+In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties:
   * City of Charlotte
   * Mecklenburg County
   * Wake County
@@ -9,6 +10,11 @@ In this project we will be analyzing budget text. The budget text inludes the fo
   * City of Durham
   * Durham County
   
+  
  # Goals
- Our goal is to do some emotion and sentiment analysis on the data as well topic modeling
+ * Understand the budget text data. Analyse it's scope.
+ * Data Pre-processing (Clean data to required format so that only the relevant data is used)
+ * Topic Modelling of the Budget Texts
+ * Emotion and Sentiment analysis of the Budget Texts.
+ * Next words recommender for the texts in the budget
 
