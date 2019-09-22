@@ -1,7 +1,7 @@
 # Budget_Text_Analysis
 
 # Introduction 
-In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties:
+In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
   * City of Charlotte
   * Mecklenburg County
   * Wake County
