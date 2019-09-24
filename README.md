@@ -23,15 +23,24 @@ In this project we will be analyzing budget text from the different counties of 
  * Emotion and Sentiment analysis of the Budget Texts.
  * Next words recommender for the texts in the budget.
  
- # Team Members:
+ #Countributers 
+ * Team Members:
     * Naseeb Thapaliya [https://github.com/naseebth]
     * Akash Meghani [https://github.com/AkashMeghani]
-    * Unnati [https://github.com/Unnati20]
+    * Unnati khivasara [https://github.com/Unnati20]
     * Sultan Al Bogami [https://github.com/AlbogamiSultan]
-    * Miguel [https://github.com/mdgaspar20]
-# Mentors:
-    * Dr. Somya Mohanty [https://github.com/somyamohanty]
-    * Mr. Jason John 
+    * Miguel Gaspar [https://github.com/mdgaspar20]
+* Mentors:
+        * Dr. Somya Mohanty [https://github.com/somyamohanty]
+        * Mr. Jason John 
     
-    
+# Tasks
+* Data segregation: Akash, Sultan
+* Data Cleanup: Naseeb, Unnati, Akash, Miguel
+* Data Organization: Akash, Miguel
+* Research on finalizing suitable approach /techniques used for analysis: Naseeb, Unnati, Miguel
+* Preparing Documents: Unnati, Sultan 
+* Preparing Document Term Matrix: Sultan, Naseeb
+* Analysis : Everyone
+
 
