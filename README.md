@@ -24,14 +24,14 @@ In this project we will be analyzing budget text from the different counties of 
  * Next words recommender for the texts in the budget.
  
  # Team Members:
-    * https://github.com/naseebth [Naseeb]
-    * Akash  [https://github.com/AkashMeghani]
+    * [Naseeb Thapaliya] (https://github.com/naseebth)
+    * Akash Meghani [https://github.com/AkashMeghani]
     * Unnati [https://github.com/Unnati20]
-    * Sultan [https://github.com/AlbogamiSultan]
+    * Sultan Al Bogami [https://github.com/AlbogamiSultan]
     * Miguel [https://github.com/mdgaspar20]
 # Mentors:
     * Dr. Somya Mohanty [https://github.com/somyamohanty]
-    * Mr. Jason John []
+    * Mr. Jason John 
     
     
 
