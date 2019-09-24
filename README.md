@@ -32,7 +32,7 @@ The data is obtained from the following organzations as PDF files and then conve
     * <address><a href="https://github.com/AlbogamiSultan">Sultan Al Bogami</address>
     * <address><a href="https://github.com/mdgaspar20">Miguel Gaspar</address>
  
-* Mentors:
+ * Mentors:
     * <address><a href="https://github.com/somyamohanty">Dr. Somya Mohanty</address>
     * Mr. Jason Jones
     
