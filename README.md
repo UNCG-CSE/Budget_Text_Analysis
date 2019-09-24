@@ -7,13 +7,13 @@ In this project we will be analyzing budget text from the different counties of 
   
   # Data Source
   * The data is obtained from the following organzations as PDF files and then converted to csv files:
-      * <address><a href="https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf">City of Charlotte</address>
-      * Mecklenburg County [https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf]
-      * Wake County [http://www.wakegov.com/budget/fy20/Pages/default.aspx] 
-      * City of Raleigh [https://user-2081353526.cld.bz/FY2020AdoptedBudget] 
-      * Guilford County [https://www.guilfordcountync.gov/home/showdocument?id=9497]
-      * City of Durham [https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget] 
-      * Durham County [https://www.dconc.gov/home/showdocument?id=27985] 
+      * <address><a href="https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf">City of Charlotte </address>
+      * Mecklenburg County <address><a href="https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf"</address>
+      * Wake County [http://www.wakegov.com/budget/fy20/Pages/default.aspx] </address>
+      * City of Raleigh [https://user-2081353526.cld.bz/FY2020AdoptedBudget] </address>
+      * Guilford County [https://www.guilfordcountync.gov/home/showdocument?id=9497]</address>
+      * City of Durham [https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget] </address>
+      * Durham County [https://www.dconc.gov/home/showdocument?id=27985] </address>
   
   
  # Goals
