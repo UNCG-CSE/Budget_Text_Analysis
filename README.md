@@ -24,7 +24,7 @@ In this project we will be analyzing budget text from the different counties of 
  * Next words recommender for the texts in the budget.
  
  # Team Members:
-    * Naseeb Thapaliya `<https://github.com/naseebth>`
+    * Naseeb Thapaliya [https://github.com/naseebth]
     * Akash Meghani [https://github.com/AkashMeghani]
     * Unnati [https://github.com/Unnati20]
     * Sultan Al Bogami [https://github.com/AlbogamiSultan]
