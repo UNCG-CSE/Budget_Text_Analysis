@@ -36,13 +36,10 @@ The data is obtained from the following organzations as PDF files and then conve
     * <address><a href="https://github.com/somyamohanty">Dr. Somya Mohanty</address>
     * Mr. Jason Jones
     
-# Tasks
-* Data segregation: Akash, Sultan
-* Data Cleanup: Naseeb, Unnati, Akash, Miguel
+# Team Tasks
+* Data Cleaning, Pre-Processing and Segregation: Everyone
 * Data Organization: Akash, Miguel
-* Research on finalizing suitable approach /techniques used for analysis: Naseeb, Unnati, Miguel
-* Preparing Documents: Unnati, Sultan 
-* Preparing Document Term Matrix: Sultan, Naseeb
-* Analysis : Everyone
-
+* Topic Modelling: Naseeb Thapaliya, Miguel Gasper, and, Sultan Al Bogami
+* Emotion Sentiment Analysis: Akash Meghani, and, Unnati Khivasara
+* Next Words Recommender: Everyone
 
