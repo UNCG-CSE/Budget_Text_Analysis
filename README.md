@@ -1,7 +1,7 @@
 # Budget_Text_Analysis
 
 # Introduction 
-
+Text analysis is an automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of viewm or classify them as positive or negative.
 In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
   
   
