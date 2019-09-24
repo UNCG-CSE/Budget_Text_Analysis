@@ -1,7 +1,7 @@
 # Budget_Text_Analysis
 
 # Introduction 
-In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
+Text analysis is the process of computational analysis of texts and deriving high-quality information from text. Many bussiness might use text analysis if they want to extract specific information such as keywords, names or organization information. Businesses may use text analysis to detect urgent matters. In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
   * City of Charlotte
   * Mecklenburg County
   * Wake County
