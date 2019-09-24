@@ -7,7 +7,7 @@ In this project we will be analyzing budget text from the different counties of 
   
   # Data Source
   * The data is obtained from the following organzations as PDF files and then converted to csv files:
-      * City of Charlotte: [https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf]
+      * <address><a href="https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf">City of Charlotte</address>
       * Mecklenburg County [https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf]
       * Wake County [http://www.wakegov.com/budget/fy20/Pages/default.aspx] 
       * City of Raleigh [https://user-2081353526.cld.bz/FY2020AdoptedBudget] 
