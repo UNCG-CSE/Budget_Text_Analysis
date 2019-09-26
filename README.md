@@ -2,6 +2,7 @@
 
 # Introduction 
 <<<<<<< HEAD
+<<<<<<< HEAD
 In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
   * City of Charlotte
   * Mecklenburg County
@@ -13,6 +14,10 @@ In this project we will be analyzing budget text from the different counties of 
 =======
 Text analysis is an automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of viewm or classify them as positive or negative.
 In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
+=======
+
+In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
+>>>>>>> 7c3ac66a1680eb6930a8c3557c7d19b220b785c4
   
   
   # Data Source
@@ -25,7 +30,10 @@ The data is obtained from the following organzations as PDF files and then conve
    * <address><a href="https://www.guilfordcountync.gov/home/showdocument?id=9497">Guilford County</address>
    * <address><a href="https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget">City of Durham</address>
    * <address><a href=https://www.dconc.gov/home/showdocument?id=27985">Durham County</address>
+<<<<<<< HEAD
 >>>>>>> ee3e6ea58ca2430c484a7d1736ee65ad2b0c03f6
+=======
+>>>>>>> 7c3ac66a1680eb6930a8c3557c7d19b220b785c4
   
   
  # Goals
@@ -53,4 +61,8 @@ The data is obtained from the following organzations as PDF files and then conve
 * Topic Modelling: Naseeb Thapaliya, Miguel Gasper, and, Sultan Al Bogami
 * Emotion Sentiment Analysis: Akash Meghani, and, Unnati Khivasara
 * Next Words Recommender: Everyone
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c3ac66a1680eb6930a8c3557c7d19b220b785c4
 
