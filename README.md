@@ -31,8 +31,10 @@ The data is obtained from the following organizations as PDF files and then conv
        * [Sultan Al Bogami](https://github.com/AlbogamiSultan) <br/>
        * [Miguel Gaspar](https://github.com/mdgaspar20) <br/>
 
-   * Instructor: [Dr. Somya Mohanty](https://github.com/somyamohanty) <br/>
-   * Mentors: [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) <br/>
+   * Instructor:
+       * [Dr. Somya Mohanty](https://github.com/somyamohanty) <br/>
+   * Mentors:
+       * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) <br/>
 
 # Team Tasks
    * Data Cleaning, Pre-Processing and Segregation: Everyone
