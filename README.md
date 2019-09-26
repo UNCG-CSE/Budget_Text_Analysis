@@ -2,17 +2,11 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Data Source](#data-source)
 * [Technologies](#technologies)
+* [Data Source](#data-source)
 * [Goals](#goals)
 * [Contributors](#contributors)
 * [Team Tasks](#team-tasks)
-
-## Technologies
-  * Python v3.7
-  * Anaconda v3.4.3
-  * Numpy v1.8.2
-  * Pandas v0.25.1 
   
 ## Introduction
 
@@ -22,6 +16,12 @@ Text analysis has been defined as the automated process that allows machines to 
      alt="Project Flow Diagram"
      style="float" />
      
+## Technologies
+  * Python v3.7
+  * Anaconda v3.4.3
+  * Numpy v1.8.2
+  * Pandas v0.25.1 
+  
 ## Data Source
 The data is obtained from the following organizations as PDF files and then converted to csv files
 
