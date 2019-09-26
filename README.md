@@ -1,10 +1,10 @@
-# Budget_Text_Analysis
+# Budget Text Analysis
 
-# Introduction
+## Introduction
 
 Text analysis has been defined as the automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of view or classify them as positive or negative. In this project our goal is to preform textual analysis on seven budget documents from different counties and cities across the state of North Carolina. By applying advanced text analysis methods, such as Topic Modelling and Sentiment Analysis, our team is hoping to extract meaningful information from each budget document individually and collectively. The team is also aiming to build a recommendation engine that may assist with the typing process of these budget documents in the future. <br/>
 
-# Data Source
+## Data Source
 The data is obtained from the following organizations as PDF files and then converted to csv files
 
    * [Guilford County](https://www.guilfordcountync.gov/home/showdocument?id=9497) <br/>
@@ -16,14 +16,14 @@ The data is obtained from the following organizations as PDF files and then conv
    * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget) <br/>
 
 
-# Goals
+## Goals
    * Understand the budget text data. Analyze it's scope.
    * Data Pre-processing (Clean data to required format so that only the relevant data is used)
    * Topic Modelling of the Budget Texts
    * Emotion and Sentiment analysis of the Budget Texts.
    * Next words recommender for the texts in the budget.
 
-# Contributors
+## Contributors
    * Team Members:
        * [Naseeb Thapaliya](https://github.com/naseebth) <br/>
        * [Akash Meghani](https://github.com/AkashMeghani) <br/>
@@ -36,7 +36,7 @@ The data is obtained from the following organizations as PDF files and then conv
    * Mentor:
        * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) <br/>
 
-# Team Tasks
+## Team Tasks
    * Data Cleaning, Pre-Processing and Segregation: Everyone
    * Data Organization: Akash, Miguel
    * Topic Modelling: Naseeb Thapaliya, Miguel Gasper, and Sultan Al Bogami
