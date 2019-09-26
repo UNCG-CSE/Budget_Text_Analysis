@@ -2,10 +2,10 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Data Source](#data source)
+* [Data Source](#data-source)
 * [Goals](#goals)
 * [Contributors](#contributors)
-* [Team Tasks](#team tasks)
+* [Team Tasks](#team-tasks)
 
 ## Introduction
 
