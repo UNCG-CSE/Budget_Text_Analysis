@@ -1,61 +1,9 @@
 # Budget Text Analysis
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Introduction 
-<<<<<<< HEAD
-In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
-  * City of Charlotte
-  * Mecklenburg County
-  * Wake County
-  * City of Raleigh
-  * Guilford County
-  * City of Durham
-  * Durham County
-=======
-
-In this project we will be analyzing budget text from the different counties of the State of North Carolina. The budget texts will be fetched from the following counties or cities as mentioned below:
-  
-  
-  # Data Source
-  * The data is obtained from the following organzations as PDF files and then converted to csv files:
-      * City of Charlotte: []
-      * Mecklenburg County []
-      * Wake County [] 
-      * City of Raleigh [] 
-      * Guilford County [https://www.guilfordcountync.gov/home/showdocument?id=9497]
-      * City of Durham [] 
-      * Durham County [] 
->>>>>>> 05e7b83cced747c2e99d29307326e884dbb30235
-  
-  
- # Goals
- * Understand the budget text data. Analyse it's scope.
- * Data Pre-processing (Clean data to required format so that only the relevant data is used)
- * Topic Modelling of the Budget Texts
- * Emotion and Sentiment analysis of the Budget Texts.
- * Next words recommender for the texts in the budget.
- 
- # Team Members:
-    * Naseeb Thapaliya `<https://github.com/naseebth>`
-    * Akash Meghani [https://github.com/AkashMeghani]
-    * Unnati [https://github.com/Unnati20]
-    * Sultan Al Bogami [https://github.com/AlbogamiSultan]
-    * Miguel [https://github.com/mdgaspar20]
-# Mentors:
-    * Dr. Somya Mohanty [https://github.com/somyamohanty]
-    * Mr. Jason John 
-    
-    
-=======
-# Introduction
->>>>>>> 6c762f8a29e30ec1d9d42ba7de829977f8d9bdd4
-=======
 ![Inline docs](https://img.shields.io/github/issues/UNCG-CSE/Budget_Text_Analysis)
 ![Inline docs](https://img.shields.io/github/stars/UNCG-CSE/Budget_Text_Analysis)
 ![Inline docs](https://img.shields.io/github/license/UNCG-CSE/Budget_Text_Analysis)
 ![Inline docs](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FUNCG-CSE%2FBudget_Text_Analysis%2Fedit%2Fmaster%2FREADME.md)
->>>>>>> d9711f4712b263b42c1fe9f84c5d3021d4682586
 
 Budget Texts from different counties are collected, and analyzed to draw up conclusions that will help budget management office to better organize documents and enable them to make better budget decision for the future.
 
