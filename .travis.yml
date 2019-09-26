@@ -27,17 +27,3 @@ matrix:
     - tox
     after_success:
     - codecov
-
-  - language: node_js
-    node_js: node
-    before_install:
-    - cd src/dashboard/web_server
-    install:
-    - npm i
-    - npm install --only=dev
-    script:
-    - node_modules/.bin/eslint . --fix
-    - npm test
-
-  allow_failures:
-  - node_js: node
