@@ -33,7 +33,7 @@ The data is obtained from the following organizations as PDF files and then conv
 
    * Instructor:
        * [Dr. Somya Mohanty](https://github.com/somyamohanty) <br/>
-   * Mentors:
+   * Mentor:
        * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) <br/>
 
 # Team Tasks
