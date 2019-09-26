@@ -5,7 +5,7 @@
 ![Inline docs](https://img.shields.io/github/license/UNCG-CSE/Budget_Text_Analysis)
 ![Inline docs](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FUNCG-CSE%2FBudget_Text_Analysis%2Fedit%2Fmaster%2FREADME.md)
 
-Budget Texts from different counties are collected, and analyzed to draw up conclusions that will help budget management office to better plan and organize documents for the future.
+Budget Texts from different counties are collected, and analyzed to draw up conclusions that will help budget management office to better organize documents and enable them to make better budget decision for the future.
 
 ## Table of contents
 * [Introduction](#introduction)
