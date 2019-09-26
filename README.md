@@ -1,8 +1,6 @@
 # Budget Text Analysis
 https://img.shields.io/github/issues/UNCG-CSE/Budget_Text_Analysis
-https://img.shields.io/github/forks/UNCG-CSE/Budget_Text_Analysis
-https://img.shields.io/github/stars/UNCG-CSE/Budget_Text_Analysis
-https://img.shields.io/github/license/UNCG-CSE/Budget_Text_Analysis
+
 
 ## Table of contents
 * [Introduction](#introduction)
