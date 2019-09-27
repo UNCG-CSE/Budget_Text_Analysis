@@ -32,17 +32,17 @@ Text analysis has been defined as the automated process that allows machines to 
 ## Data Source
 The data is obtained from the following organizations as PDF files and then converted to csv files
 
-   * [Guilford County](https://www.guilfordcountync.gov/home/showdocument?id=9497) <br/>
-   * [Durham County](https://www.dconc.gov/home/showdocument?id=27985) <br/>
-   * [City of Durham](https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget) <br/>
-   * [City of Charlotte](https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf) <br/>
+   * [Guilford County](https://www.guilfordcountync.gov/home/showdocument?id=9497) 
+   * [Durham County](https://www.dconc.gov/home/showdocument?id=27985) 
+   * [City of Durham](https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget) 
+   * [City of Charlotte](https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf)
    * [Mecklenburg County](https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf) <br/>
-   * [Wake County](http://www.wakegov.com/budget/fy20/Pages/default.aspx) <br/>
-   * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget) <br/>
+   * [Wake County](http://www.wakegov.com/budget/fy20/Pages/default.aspx) 
+   * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget) 
 
 
 ## Goals
-   * Understand the budget text data. Analyze it's scope.
+   * Understand the budget text data. Analyze its scope.
    * Data Pre-processing (Clean data to required format so that only the relevant data is used)
    * Topic Modelling of the Budget Texts
    * Emotion and Sentiment analysis of the Budget Texts.
@@ -50,16 +50,16 @@ The data is obtained from the following organizations as PDF files and then conv
 
 ## Contributors
    * Team Members:
-       * [Naseeb Thapaliya](https://github.com/naseebth) <br/>
-       * [Akash Meghani](https://github.com/AkashMeghani) <br/>
-       * [Unnati khivasara](https://github.com/Unnati20) <br/>
-       * [Sultan Al Bogami](https://github.com/AlbogamiSultan) <br/>
-       * [Miguel Gaspar](https://github.com/mdgaspar20) <br/>
+       * [Naseeb Thapaliya](https://github.com/naseebth) 
+       * [Akash Meghani](https://github.com/AkashMeghani)
+       * [Unnati khivasara](https://github.com/Unnati20)
+       * [Sultan Al Bogami](https://github.com/AlbogamiSultan)
+       * [Miguel Gaspar](https://github.com/mdgaspar20)
 
    * Instructor:
-       * [Dr. Somya Mohanty](https://github.com/somyamohanty) <br/>
+       * [Dr. Somya Mohanty](https://github.com/somyamohanty) 
    * Mentor:
-       * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) <br/>
+       * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) 
 
 ## Team Tasks
    * Data Cleaning, Pre-Processing and Segregation: Everyone
