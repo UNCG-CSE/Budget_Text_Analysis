@@ -37,7 +37,7 @@ The data is obtained from the following organizations as PDF files and then conv
    * [City of Durham](https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget) 
    * [City of Charlotte](https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf)
    * [Mecklenburg County](https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf) <br/>
-   * [Wake County](http://www.wakegov.com/budget/fy20/Pages/default.aspx) 
+   * [Wake County](http://www.wakegov.com/budget/fy20/Documents/FY20%20Adopted%20Budget%20Book.pdf) 
    * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget) 
 
 
