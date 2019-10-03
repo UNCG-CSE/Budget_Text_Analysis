@@ -64,6 +64,6 @@ The data is obtained from the following organizations as PDF files and then conv
 ## Team Tasks
    * Data Cleaning, Pre-Processing and Segregation: Everyone
    * Data Organization: Akash, Miguel
-   * Topic Modelling: Naseeb Thapaliya, Miguel Gasper, and Sultan Al Bogami
+   * Topic Modelling: Naseeb Thapaliya, Miguel Gaspar, and Sultan Al Bogami
    * Emotion Sentiment Analysis: Akash Meghani, and Unnati Khivasara
    * Next Words Recommender: Everyone
