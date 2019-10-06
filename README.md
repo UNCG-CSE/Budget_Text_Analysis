@@ -14,7 +14,7 @@ Budget Texts from different counties are collected, and analyzed to draw up conc
 * [Goals](#goals)
 * [Contributors](#contributors)
 * [Team Tasks](#team-tasks)
-  
+
 ## Introduction
 
 Text analysis has been defined as the automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of view or classify them as positive or negative. In this project our goal is to preform textual analysis on seven budget documents from different counties and cities across the state of North Carolina. By applying advanced text analysis methods, such as Topic Modelling and Sentiment Analysis, our team is hoping to extract meaningful information from each budget document individually and collectively. The team is also aiming to build a recommendation engine that may assist with the auto recommending next text process of these budget documents in the future. <br/>
@@ -22,23 +22,23 @@ Text analysis has been defined as the automated process that allows machines to 
 <img src = "util/images/Process_Diagram.png"
      alt="Project Flow Diagram"
      style="float" />
-     
+
 ## Technologies
   * Python v3.7
   * Anaconda v3.4.3
   * Numpy v1.8.2
-  * Pandas v0.25.1 
-  
-## Data Source
-The data is obtained from the following organizations as PDF files and then converted to csv files
+  * Pandas v0.25.1
 
-   * [Guilford County](https://www.guilfordcountync.gov/home/showdocument?id=9497) 
-   * [Durham County](https://www.dconc.gov/home/showdocument?id=27985) 
-   * [City of Durham](https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget) 
+## Data Source
+The data is obtained from the following organizations as PDF files and then converted into csv files
+
+   * [Guilford County](https://www.guilfordcountync.gov/home/showdocument?id=9497)
+   * [Durham County](https://www.dconc.gov/home/showdocument?id=27985)
+   * [City of Durham](https://durhamnc.gov/DocumentCenter/View/27412/FY20-Final-Budget)
    * [City of Charlotte](https://charlottenc.gov/budget/FY2020%20Documents/FY%202020%20Adopted%20Budget%20Book%207-31%20Complete.pdf)
    * [Mecklenburg County](https://www.mecknc.gov/CountyManagersOffice/OMB/Documents/FY2020%20Adopted%20Budget.pdf) <br/>
-   * [Wake County](http://www.wakegov.com/budget/fy20/Documents/FY20%20Adopted%20Budget%20Book.pdf) 
-   * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget) 
+   * [Wake County](http://www.wakegov.com/budget/fy20/Documents/FY20%20Adopted%20Budget%20Book.pdf)
+   * [City of Raleigh](https://user-2081353526.cld.bz/FY2020AdoptedBudget)
 
 
 ## Goals
@@ -50,16 +50,16 @@ The data is obtained from the following organizations as PDF files and then conv
 
 ## Contributors
    * Team Members:
-       * [Naseeb Thapaliya](https://github.com/naseebth) 
+       * [Naseeb Thapaliya](https://github.com/naseebth)
        * [Akash Meghani](https://github.com/AkashMeghani)
        * [Unnati khivasara](https://github.com/Unnati20)
        * [Sultan Al Bogami](https://github.com/AlbogamiSultan)
        * [Miguel Gaspar](https://github.com/mdgaspar20)
 
    * Instructor:
-       * [Dr. Somya Mohanty](https://github.com/somyamohanty) 
+       * [Dr. Somya Mohanty](https://github.com/somyamohanty)
    * Mentor:
-       * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/) 
+       * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/)
 
 ## Team Tasks
    * Data Cleaning, Pre-Processing and Segregation: Everyone
