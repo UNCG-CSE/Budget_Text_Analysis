@@ -238,7 +238,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Step 4: Counting stopwords in data"
+    "### Step 4: Identifying stopwords in data"
    ]
   },
   {
