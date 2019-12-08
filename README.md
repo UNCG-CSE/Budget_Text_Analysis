@@ -43,8 +43,9 @@ The data is obtained from the following organizations as PDF files and then conv
 
 ## Goals
    * Understand the budget text data and analyze its scope.
-   * Use Topic Modelling techniques to discover abstract topics.
-   * Use Sentiment analysis to identify and extract subjective information.
+   * Use topic modelling techniques to discover abstract topics.
+   * Use NLP methods such as sentiment analysis to extract subjective information.
+   * Leverage Machine Learning to find similarities between the budget documents.
    * Develop a text generation  tool.
    
 ## Contributors
@@ -61,22 +62,26 @@ The data is obtained from the following organizations as PDF files and then conv
        * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/)
 
 ## Team Tasks
+
    1. Data Collection: Sultan Al Bogami and Akash Meghani
    
    2. Data Pre-Processing: Everyone
    
-   3. Statstical Text Analysis:
+   3. Exploratory Text Analysis: Sultan Al Bogami
+
+   4. Statstical Text Analysis:
+
        * Original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
        * Sentiment: Akash Meghani, and Unnati Khivasara
        
-   4. Machine Learning:
+   5. Machine Learning:
    
        * Sentiment Analysis: Akash Meghani, and Unnati Khivasara
        * Topic Modeling: Naseeb Thapaliya and Miguel Gaspar
        * Corpus Similarity: Sultan Al Bogami
        
-   5. Next Word Recommender (optional): Everyone
+   6. Next Word Recommender (optional): Everyone
    
-   6. Evaluation: Everyone
+   7. Evaluation: Everyone
    
-   7. Deployment: Everyone
+   8. Deployment: Everyone
