@@ -63,7 +63,7 @@ The data is obtained from the following organizations as PDF files and then conv
 
 ## Team Tasks
 
-   1. Data Collection: Sultan Al Bogami and Akash Meghani
+   1. Data Collection: Sultan Al Bogami
    
    2. Data Pre-Processing: Everyone
    
@@ -71,17 +71,22 @@ The data is obtained from the following organizations as PDF files and then conv
 
    4. Statstical Text Analysis:
 
-       * Original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
-       * Sentiment: Akash Meghani, and Unnati Khivasara
+       * original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
+       * sentiment: Akash Meghani, and Unnati Khivasara
        
-   5. Machine Learning:
+   5. Topic Modeling: Naseeb Thapaliya and Miguel Gaspar
    
-       * Sentiment Analysis: Akash Meghani, and Unnati Khivasara
-       * Topic Modeling: Naseeb Thapaliya and Miguel Gaspar
-       * Corpus Similarity: Sultan Al Bogami
+   6. Sentiment Analysis: Akash Meghani, and Unnati Khivasara
+   
+   7. Corpus Similarity: Sultan Al Bogami
        
-   6. Next Word Recommender (optional): Everyone
+   8. Machine Learning:
    
-   7. Evaluation: Everyone
+       * original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
+       * sentiment: Akash Meghani, and Unnati Khivasara
+       
+   9. Next Word Recommender (optional): Everyone
    
-   8. Deployment: Everyone
+   10. Evaluation: Everyone
+   
+   8. Deployment:  Everyone
