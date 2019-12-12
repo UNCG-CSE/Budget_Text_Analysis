@@ -5,7 +5,7 @@
 ![Inline docs](https://img.shields.io/github/license/UNCG-CSE/Budget_Text_Analysis)
 ![Inline docs](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FUNCG-CSE%2FBudget_Text_Analysis%2Fedit%2Fmaster%2FREADME.md)
 
-Budget Texts from different counties are collected, and analyzed to draw up conclusions that will help budget management office to better organize documents and enable them to make better budget decision for the future.
+Budget documents from different local governments are collected, preprocessed and analyzed to draw up conclusions that may help Guilford County to better organize their budget documents and enable them to make better budget decisions for the future.
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -17,11 +17,11 @@ Budget Texts from different counties are collected, and analyzed to draw up conc
 
 ## Introduction
 
-Text analysis has been defined as the automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of view or classify them as positive or negative. In this project our goal is to preform textual analysis on seven budget documents from different counties and cities across the state of North Carolina. By applying advanced text analysis methods, such as Topic Modelling and Sentiment Analysis, our team is hoping to extract meaningful information from each budget document individually and collectively. The team is also aiming to build a recommendation engine that may assist with the auto recommending next text process of these budget documents in the future. <br/>
+Text analysis has been defined as the automated process that allows machines to extract and classify information from text. Businesses might use text analysis to extract specific information such as keywords, names, and organization information. Businesses may also categorize text with tags according to topic, point of view or classify them as positive or negative. In this project our goal is to preform textual analysis on seven budget documents from different counties and cities across the state of North Carolina. By applying advanced text analysis methods, such as Topic Modelling and Sentiment Analysis, our team is hoping to extract meaningful information. In addition, the team is aiming to build a text generation tool that may assist Guilford County with the production of their budget documents.
 
 <img src = "util/images/Process_Diagram.png"
      alt="Project Flow Diagram"
-     style="float" />
+     style="float"/>
 
 ## Technologies
   * Python v3.7
@@ -42,12 +42,12 @@ The data is obtained from the following organizations as PDF files and then conv
 
 
 ## Goals
-   * Understand the budget text data. Analyze its scope.
-   * Data Pre-processing (Clean data to required format so that only the relevant data is used)
-   * Topic Modelling of the Budget Texts
-   * Emotion and Sentiment analysis of the Budget Texts.
-   * Next words recommender for the texts in the budget.
-
+   * Understand the budget text data and analyze its scope.
+   * Use topic modelling techniques to discover abstract topics.
+   * Use NLP methods such as sentiment analysis to extract subjective information.
+   * Leverage machine learning to quantify the similarities between the budget documents.
+   * Develop a text generation  tool.
+   
 ## Contributors
    * Team Members:
        * [Naseeb Thapaliya](https://github.com/naseebth)
@@ -62,8 +62,31 @@ The data is obtained from the following organizations as PDF files and then conv
        * [Mr. Jason Jones](https://www.linkedin.com/in/jones-jason-adam/)
 
 ## Team Tasks
-   * Data Cleaning, Pre-Processing and Segregation: Everyone
-   * Data Organization: Sultan
-   * Topic Modelling: Naseeb Thapaliya, Miguel Gaspar, and Sultan Al Bogami
-   * Emotion Sentiment Analysis: Akash Meghani, and Unnati Khivasara
-   * Next Words Recommender: Everyone
+
+   1. Data Collection: Sultan Al Bogami
+   
+   2. Data Pre-Processing: Everyone
+   
+   3. Exploratory Text Analysis: Sultan Al Bogami
+
+   4. Statstical Text Analysis:
+
+       * original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
+       * sentiment: Akash Meghani, and Unnati Khivasara
+       
+   5. Topic Modeling: Naseeb Thapaliya and Miguel Gaspar
+   
+   6. Sentiment Analysis: Akash Meghani, and Unnati Khivasara
+   
+   7. Corpus Similarity: Sultan Al Bogami
+       
+   8. Machine Learning:
+   
+       * original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
+       * sentiment: Akash Meghani, and Unnati Khivasara
+       
+   9. Next Word Recommender (optional): Everyone
+   
+   10. Evaluation: Everyone
+   
+   8. Deployment:  Everyone
