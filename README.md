@@ -45,7 +45,7 @@ The data is obtained from the following organizations as PDF files and then conv
    * Understand the budget text data and analyze its scope.
    * Use topic modelling techniques to discover abstract topics.
    * Use NLP methods such as sentiment analysis to extract subjective information.
-   * Leverage machine learning to quantify the similarities between the budget documents.
+   * Find a proper way to quantify the similarities between the budget documents.
    * Develop a text generation  tool.
    
 ## Contributors
@@ -67,14 +67,14 @@ The data is obtained from the following organizations as PDF files and then conv
    
    2. Data Pre-Processing: Everyone
    
-   3. Exploratory Text Analysis: Sultan Al Bogami
+   3. Exploratory Text Analysis: Everyone 
 
    4. Statstical Text Analysis:
 
        * original: Naseeb Thapaliya, Miguel Gaspar and Sultan Al Bogami
        * sentiment: Akash Meghani, and Unnati Khivasara
        
-   5. Topic Modeling: Naseeb Thapaliya and Miguel Gaspar
+   5. Topic Modeling: Naseeb Thapaliya, Sultan Al Bogami and Miguel Gaspar
    
    6. Sentiment Analysis: Akash Meghani, and Unnati Khivasara
    
@@ -89,4 +89,4 @@ The data is obtained from the following organizations as PDF files and then conv
    
    10. Evaluation: Everyone
    
-   8. Deployment:  Everyone
+   11. Deployment: Everyone
